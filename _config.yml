@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Today I Learned"
 title_separator          : "-"
 name                     : "Sungho Shim"
-description              : "An amazing website."
+description              : "Today Sungho Learned"
 url                      : "https://mechurak.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mechurak/mechurak.gihub.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Sungho Shim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "B급 개발자"
   location         : "Somewhere"
   email            : "mechurak@gmail.com"
   uri              :
@@ -243,5 +243,5 @@ defaults:
       author_profile: # true
       read_time: # true
       comments: true
-      share: true
+      share: # true
       related: true
