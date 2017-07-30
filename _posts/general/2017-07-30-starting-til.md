@@ -16,6 +16,6 @@ tags:
 좀 뒤쳐지고 느리더라도 괜찮다. 하지만 **성장**은 조금씩이라도 계속 되어야 한다.
 
 ## Reference
-- https://github.com/mmistakes/minimal-mistakes
-- https://github.com/thoughtbot/til
-- https://github.com/milooy/TIL
+- <https://github.com/mmistakes/minimal-mistakes> Jekyll 테마
+- <https://github.com/thoughtbot/til> TIL 컨셉
+- <https://github.com/milooy/TIL> TIL 참고
