@@ -1,10 +1,10 @@
 ---
 title: "SQLite 인덱싱 이용하기"
 categories:
-  - android
+  - Android
 tags:
-  - android
-  - sqlite
+  - Android
+  - SQLite
   - memory_leak
   - performance
 ---
