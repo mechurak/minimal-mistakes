@@ -15,7 +15,7 @@ import time
 
 timestamp = time.strftime("%Y%m%d_%H%M%S.txt")    # ex) "20170808_160546.txt"
 os.system("adb shell dumpsys meminfo [패키지명] > log/meminfo_" + timestamp)
-os.system("adb shell dumpsys dbifo [패키지명] > log/dbinfo_" + timestamp)
+os.system("adb shell dumpsys dbinfo [패키지명] > log/dbinfo_" + timestamp)
 ```
 
 필요할 때마다 위 파이썬 파일을 실행해서 원하는 로그를 시간 포함한 파일명으로 저장할 수 있었다.
