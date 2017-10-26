@@ -86,7 +86,7 @@ public class Singleton {
 	
 	private Singleton() {}
 	
-	public static synchronized Singleton getInstance() {  // synchronized 키워드 추가
+	public static Singleton getInstance() {
 		if (uniqueInstance == null) {
 			synchronized (Singleton.class) {
 				if (uniqueInstance == null) {
